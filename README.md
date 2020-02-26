@@ -9,6 +9,8 @@ Dive into AI BookReading
 
 ## CBinsight: Aritificial Intelligence to Watch in 2020
 
+[NINE works]
+
 * Commercial Deepfakes: Superpersonal, Synthesia. Personalized hyper-targeted ads, KOLs
 
 * Next-gen hacking: mimik voice
@@ -22,3 +24,11 @@ Dive into AI BookReading
 * AI consumes a lot of energy (energy-efficient AI devices L Kneron, Xnor.ai is needed) and also helpful in saving energy 
 
 * Small Data Issue: NLP --self-supervised techniques (wav2vec), pretrained in CV, Synthetic data.  
+
+* Quantum Machine Learning, by Google, QNN
+
+* NLP, i.e. self-supervised language models, for gene/protein sequence prediction.ein folding. Alphafold to predict prot https://www.biorxiv.org/content/10.1101/622803v1.full This implicates in better drug design, understand life base, new protein design in both healthcare and material science.
+
+
+
+
